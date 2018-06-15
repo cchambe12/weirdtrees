@@ -1,5 +1,14 @@
-\begin{thebibliography}{5}
+\begin{thebibliography}{9}
 \providecommand{\natexlab}[1]{#1}
+
+\bibitem[{Allen \emph{et~al.}(2010)Allen, Macalady, Chenchouni, Bachelet,
+  McDowell, Vennetier, Kitzberger, Rigling, Breshears, Hogg \&
+  et~al.}]{Allen2010}
+Allen, C.D., Macalady, A.K., Chenchouni, H., Bachelet, D., McDowell, N.,
+  Vennetier, M., Kitzberger, T., Rigling, A., Breshears, D.D., Hogg, E.T. \&
+  et~al. (2010) A global overview of drought and heat-induced tree mortality
+  reveals emerging climate change risks for forests. \emph{Forest Ecology and
+  Management} \textbf{259}, 660--684.
 
 \bibitem[{Christman \emph{et~al.}(2011)Christman, Sperry \&
   Smith}]{Christman2011}
@@ -7,16 +16,29 @@ Christman, M.A., Sperry, J.S. \& Smith, D.D. (2011) Rare pits, large vessels
   and extreme vulnerability to cavitation in a ring-porous tree species.
   \emph{New Phytologist} \textbf{193}, 713--720.
 
-\bibitem[{Farquhar \emph{et~al.}(1980)Farquhar, von Caemmerer \&
-  Berry}]{Farquhar1980}
-Farquhar, G.D., von Caemmerer, S. \& Berry, J.A. (1980) A biochemical model of
-  photosynthetic co2 assimilation in leaves of c3 species. \emph{Planta}
-  \textbf{149}, 78--90.
-
 \bibitem[{Franks \& Farquhar(1999)}]{Franks1999}
 Franks, P.J. \& Farquhar, G.D. (1999) A relationship between humidity response,
   growth form and photosynthetic operating point in c3 plants. \emph{Plant,
   Cell \& Environment} \textbf{22}, 1337--1349.
+
+\bibitem[{Hetherington \& Woodward(2003)}]{Hetherington2003}
+Hetherington, A.M. \& Woodward, F.I. (2003) The role of stomata in sensing and
+  driving environmental change. \emph{Nature} \textbf{424}, 901 EP --.
+
+\bibitem[{Jolly \emph{et~al.}(2005)Jolly, Dobbertin, Zimmermann \&
+  Reichstein}]{Jolly2005}
+Jolly, W.M., Dobbertin, M., Zimmermann, N.E. \& Reichstein, M. (2005) Divergent
+  vegetation growth responses to the 2003 heat wave in the swiss alps.
+  \emph{Geophysical Research Letters} \textbf{32}.
+
+\bibitem[{Medlyn \emph{et~al.}(2002)Medlyn, Dreyer, Ellsworth, Forstreuter,
+  Harley, Kirschbaum, Le~Roux, Montpied, Strassemeyer, Walcroft, Wang \&
+  Loustau}]{Medlyn2002}
+Medlyn, B.E., Dreyer, E., Ellsworth, D., Forstreuter, M., Harley, P.C.,
+  Kirschbaum, M.U.F., Le~Roux, X., Montpied, P., Strassemeyer, J., Walcroft,
+  A., Wang, K. \& Loustau, D. (2002) Temperature response of parameters of a
+  biochemically based model of photosynthesis. ii. a review of experimental
+  data. \emph{Plant, Cell \& Environment} \textbf{25}, 1167--1179.
 
 \bibitem[{Meinzer \emph{et~al.}(2013)Meinzer, Woodruff, Eissenstat, Lin, Adams
   \& McCulloh}]{Meinzer2013}
@@ -24,6 +46,13 @@ Meinzer, F.C., Woodruff, D.R., Eissenstat, D.M., Lin, H.S., Adams, T.S. \&
   McCulloh, K.A. (2013) Above- and belowground controls on water use by trees
   of different wood types in an eastern us deciduous forest. \emph{Tree
   Physiology} \textbf{33}, 345--356.
+
+\bibitem[{Oren \emph{et~al.}(1999)Oren, Sperry, Katul, Pataki, Ewers, Phillips
+  \& Sch{\"a}fer}]{Oren1999}
+Oren, R., Sperry, J.S., Katul, G.G., Pataki, D.E., Ewers, B.E., Phillips, N. \&
+  Sch{\"a}fer, K.V.R. (1999) Survey and synthesis of intra‐ and interspecific
+  variation in stomatal sensitivity to vapour pressure deficit. \emph{Plant,
+  Cell \& Environment} \textbf{22}, 1515--1526.
 
 \bibitem[{Sangin{\'e}s~de C{\'a}rcer \emph{et~al.}(2017)Sangin{\'e}s~de
   C{\'a}rcer, Vitasse, Pe{\~n}uelas, Jassey, Buttler \&
