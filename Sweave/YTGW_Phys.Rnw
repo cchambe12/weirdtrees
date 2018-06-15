@@ -42,7 +42,7 @@ library(ggplot2)
 @
 
 \begin{document}
-\noindent \textbf{\Large{Your Trees Grow Weird: Physiological Perspective}}
+\noindent \textbf{\Large{Your Tree Grows Weird: Physiological Perspective}}
 
 \noindent Authors:\\
 C. J. Chamberlain $^{1,2}$
